@@ -1,3 +1,19 @@
+## Availity Challenge
+
+This is my submission for the Availity Front End Developer Role
+
+Below are my answers to the questions asked and then if you run this code you can see the registration form and LISP code run.
+
+1. Tell me about your proudest professional achievement. It can be a personal or school
+   project. **I have many to think of, one that has got me here today is in 2008 I was laid off from a design job and spent my time on unemployment to teach myself programming to get a better job. I learned Python and Django to start off**
+
+2. Tell me a about a book, blog, article or GitHub repo you read or liked recently, and why
+   you like it and why you should recommend I do the same. **I just finished the book Can't Hurt Me. This book is a must read and will open new ways to realize we can all achieve the things we want with a little more mental focus.**
+
+3. If you were to describe to a 7-year old what Availity does, what would you say? **So I would tell this 7 year old that Availity is like the game Plants vs. Zombies and that the plants are keeping the zombies from getting past and getting to the information they can use for bad. But if you are not a zombie and need to get past you can then get to the information and help that they provide to get healthcare coverage.**
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
